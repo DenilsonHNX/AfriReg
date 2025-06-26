@@ -2,13 +2,14 @@ import { Camera, ArrowLeft } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 
-function CameraBi() {
+function CameraBiBack() {
   const navigate = useNavigate();
   const videoRef = useRef(null);
   const canvasRef = useRef(null);
   const [mostrarConfirmacao, setMostrarConfirmacao] = useState(false);
   const [fotoBase64, setFotoBase64] = useState(null);
-  const [facingMode, setFacingMode] = useState("user");
+  const [facingMode, setFacingMode] = useState("user"); // "user" = frontal
+
   const startCamera = () => {
     navigator.mediaDevices
       .getUserMedia({ video: { facingMode } })
@@ -47,10 +48,10 @@ function CameraBi() {
 
   const handleAceitar = () => {
     if (fotoBase64) {
-      localStorage.setItem("fotoBI", fotoBase64);
+      localStorage.setItem("fotoBIBack", fotoBase64);
     }
     setMostrarConfirmacao(false);
-    navigate("/PassPageCamera");
+    navigate("/PassPageCameraFace");
   };
 
   const handleRepetir = () => {
@@ -58,9 +59,9 @@ function CameraBi() {
     setMostrarConfirmacao(false);
   };
 
-  /* const handleSwitchCamera = () => {
+  const handleSwitchCamera = () => {
     setFacingMode((prev) => (prev === "user" ? "environment" : "user"));
-  };*/
+  };
 
   return (
     <div className="relative flex flex-col items-center justify-between h-screen px-4 py-8 overflow-hidden">
@@ -84,6 +85,12 @@ function CameraBi() {
         <div className="w-[90%] h-[90%] bg-gray-600 bg-opacity-30 rounded-2xl" />
 
         <div className="relative w-full mt-6">
+          <ArrowLeft
+            onClick={() => navigate("/BeforeCamera")}
+            size={40}
+            color="#fff"
+            className="absolute left-10 top-1/2 -translate-y-1/2 cursor-pointer"
+          />
 
           <div className="flex justify-center items-center gap-x-8">
             <Camera
@@ -135,4 +142,4 @@ function CameraBi() {
   );
 }
 
-export default CameraBi;
+export default CameraBiBack;

@@ -1,14 +1,12 @@
 import "react-phone-number-input/style.css";
-import { useState, useRef } from "react";
 import { useNavigate } from "react-router-dom";
 
-function InserNumber() {
+function InsertName() {
   const navigate = useNavigate();
 
   function navigateBeforeCamera() {
     navigate("/BeforeCamera");
   }
-
 
   return (
     <div className="relative h-screen overflow-hidden bg-[#2B2B2D] flex items-center justify-center text-center">
@@ -51,4 +49,4 @@ function InserNumber() {
   );
 }
 
-export default InserNumber;
+export default InsertName;

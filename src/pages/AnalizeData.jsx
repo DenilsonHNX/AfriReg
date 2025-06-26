@@ -13,9 +13,12 @@ const base64ToBlob = (base64) => {
   return new Blob([ab], { type: mimeString });
 };
 
+
+
 function AnalizeData() {
   const navigate = useNavigate();
   const [error, setError] = useState(null);
+  const [sucess, setSucess] = useState(null);
 
   useEffect(() => {
     const comparePhotos = async () => {
@@ -47,9 +50,15 @@ function AnalizeData() {
         const result = await response.json();
 
         if (result.sucesso && result.status === "APROVADO") {
-          navigate("/Confirmado");
+          setSucess("AS FOTOGRAFIAS FORAM APROVADAS!");
+          setTimeout(() => {
+            navigate("/CameraBi");
+          }, 500); 
         } else {
-          setError("As fotos não correspondem ou foram reprovadas.");
+          setError("AS FOTOGRAFIAS NÃO FORAM APROVADAS!");
+          setTimeout(() => {
+            navigate("/NotConfirmed");
+          }, 500);
         }
       } catch (error) {
         setError("Erro ao processar as imagens. Tente novamente.");
@@ -59,7 +68,7 @@ function AnalizeData() {
 
     const timer = setTimeout(() => {
       comparePhotos();
-    }, 1000); // Executa após 1 segundo
+    }, 1000); 
 
     return () => clearTimeout(timer);
   }, [navigate]);
@@ -81,9 +90,11 @@ function AnalizeData() {
       <div className="z-10 flex flex-col items-center justify-center" aria-live="polite">
         {error ? (
           <p className="text-red-500">{error}</p>
+        ) : sucess ? (
+          <p className="text-green-500 text-xl">{sucess}</p>
         ) : (
           <>
-            <h1 className="text-3xl text-white font-bold mb-6">
+            <h1 className="text-xl text-white mb-4 mt-10 font-semibold">
               ANALISANDO OS DADOS
             </h1>
             <div

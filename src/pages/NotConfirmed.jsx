@@ -4,24 +4,32 @@ import { useNavigate } from "react-router-dom";
 function InserNumber() {
   const navigate = useNavigate();
 
-  function navigateCameraBi() {
-    navigate("/CameraBi");
+  function navigateQuit() {
+    navigate("/");
+  }
+  function navigateTryAgain() {
+    navigate("/BeforeCamera");
   }
 
   return (
     <div className="relative h-screen overflow-hidden bg-[#2B2B2D] flex items-center justify-center text-center">
       <div className="z-10">
-        <p htmlFor="phone" className="text-base  text-white">
-          <b className="text-xl p-3 text-white mb-4 mt-10 font-semibold">
-            TIRE FOTOGRAFIA DA PARTE FRONTAL DO BILHETE DE IDENTIDADE
-          </b>
-        </p>
+        <h1 className="text-xl text-white mb-4 mt-10 font-semibold">
+          DADOS REJEITADOS!
+        </h1>
+
         <div className="flex flex-row items-center gap-4 mb-8 mt-4 justify-center">
           <button
-            onClick={() => navigateCameraBi()}
-            className="px-10 py-2 bg-[#27B1B1] text-white rounded-xl disabled:opacity-50"
+            onClick={() => navigateQuit()}
+            className="px-10 py-2 bg-[#862F72] text-white rounded-xl"
           >
-            <b className="text-[#862F72]">CONTINUAR</b>
+            <b className="text-[#27B1B1]">CANCELAR</b>
+          </button>
+          <button
+            onClick={() => navigateTryAgain()}
+            className="px-2 py-2 bg-[#27B1B1] text-white rounded-xl disabled:opacity-50"
+          >
+            <b className="text-[#862F72]">TENTE NOVAMENTE</b>
           </button>
         </div>
 

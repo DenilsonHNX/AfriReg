@@ -10,6 +10,11 @@ import CameraPageBi from './pages/CameraBi.jsx'
 import CameraPageFace from './pages/CameraFace.jsx'
 import AnalizeData from './pages/AnalizeData.jsx'
 import InsertName from './pages/InsertName.jsx'
+import NotConfirmed from './pages/NotConfirmed.jsx'
+import ConfirmData from './pages/ConfirmData.jsx'
+import CameraBiBack from './pages/CameraBiBack.jsx' 
+import PassPageCamera from './pages/PassPageCamera.jsx' 
+import PassPageCameraFace from './pages/PassPageCameraFace.jsx' 
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 
 
@@ -45,6 +50,26 @@ const router = createBrowserRouter([
   {
     path: "/InsertName",
     element: <InsertName />,
+  },
+  {
+    path: "/NotConfirmed",
+    element: <NotConfirmed />
+  },
+  {
+    path: '/CameraBiBack',
+    element: <CameraBiBack />
+  },
+  {
+    path: "/ConfirmData",
+    element: <ConfirmData />
+  },
+  {
+    path: "/PassPageCamera",
+    element: <PassPageCamera />
+  },
+  {
+    path: "/PassPageCameraFace",
+    element: <PassPageCameraFace />
   }
 ]);
 

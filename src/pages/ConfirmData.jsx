@@ -1,24 +1,32 @@
 import "react-phone-number-input/style.css";
 import { useNavigate } from "react-router-dom";
 
-function InserNumber() {
+function ConfirmData() {
   const navigate = useNavigate();
 
-  function navigateCameraBi() {
+  function navigateVerifyCode() {
+    navigate("/VerifyCode");
+  }
+  function navigateTryAgain() {
     navigate("/CameraBi");
   }
 
   return (
     <div className="relative h-screen overflow-hidden bg-[#2B2B2D] flex items-center justify-center text-center">
       <div className="z-10">
-        <p htmlFor="phone" className="text-base  text-white">
-          <b className="text-xl p-3 text-white mb-4 mt-10 font-semibold">
-            TIRE FOTOGRAFIA DA PARTE FRONTAL DO BILHETE DE IDENTIDADE
-          </b>
-        </p>
+        <h1 className="text-xl text-white mb-4 mt-10 font-semibold">
+          DADOS ANALISADOS E ACEITES COM SUCESSO!
+        </h1>
+
         <div className="flex flex-row items-center gap-4 mb-8 mt-4 justify-center">
           <button
-            onClick={() => navigateCameraBi()}
+            onClick={() => navigateTryAgain()}
+            className="px-10 py-2 bg-[#862F72] text-white rounded-xl"
+          >
+            <b className="text-[#27B1B1]">VOLTAR</b>
+          </button>
+          <button
+            onClick={() => navigateVerifyCode()}
             className="px-10 py-2 bg-[#27B1B1] text-white rounded-xl disabled:opacity-50"
           >
             <b className="text-[#862F72]">CONTINUAR</b>
@@ -45,4 +53,4 @@ function InserNumber() {
   );
 }
 
-export default InserNumber;
+export default ConfirmData;

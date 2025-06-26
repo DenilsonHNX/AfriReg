@@ -1,29 +1,26 @@
 import "react-phone-number-input/style.css";
 import { useNavigate } from "react-router-dom";
+import { useEffect } from "react";
 
-function InserNumber() {
+function PassPageCamera() {
   const navigate = useNavigate();
 
-  function navigateCameraBi() {
-    navigate("/CameraBi");
+  function navigateVerifyCode() {
+    navigate("/CameraFace");
   }
+
+  useEffect(() => {
+    setInterval(() => {
+      navigateVerifyCode();
+    }, 6000); 
+  }, [navigate]); 
 
   return (
     <div className="relative h-screen overflow-hidden bg-[#2B2B2D] flex items-center justify-center text-center">
       <div className="z-10">
-        <p htmlFor="phone" className="text-base  text-white">
-          <b className="text-xl p-3 text-white mb-4 mt-10 font-semibold">
-            TIRE FOTOGRAFIA DA PARTE FRONTAL DO BILHETE DE IDENTIDADE
-          </b>
-        </p>
-        <div className="flex flex-row items-center gap-4 mb-8 mt-4 justify-center">
-          <button
-            onClick={() => navigateCameraBi()}
-            className="px-10 py-2 bg-[#27B1B1] text-white rounded-xl disabled:opacity-50"
-          >
-            <b className="text-[#862F72]">CONTINUAR</b>
-          </button>
-        </div>
+        <h1 className="text-xl text-white mb-4 mt-10 font-semibold">
+          TIRA FOTOGRAFIA DO SEU ROSTO
+        </h1>
 
         {/* Camada azul */}
         <div
@@ -45,4 +42,4 @@ function InserNumber() {
   );
 }
 
-export default InserNumber;
+export default PassPageCamera;
