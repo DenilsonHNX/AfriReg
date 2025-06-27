@@ -1,0 +1,210 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Interfaces\\CadastroNumeroTelefonico..Interfaces.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadastroNumeroTelefonico.Models\\CadastroNumeroTelefonico..Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadastroNumeroTelefonico.Models\\CadastroNumeroTelefonico..Models.csproj",
+        "projectName": "CadastroNumeroTelefonico..Models",
+        "projectPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadastroNumeroTelefonico.Models\\CadastroNumeroTelefonico..Models.csproj",
+        "packagesPath": "C:\\Users\\Denilson Correia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadastroNumeroTelefonico.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Denilson Correia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Dto\\CadastroNumeroTelefonico..DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Dto\\CadastroNumeroTelefonico..DTO.csproj",
+        "projectName": "CadastroNumeroTelefonico..DTO",
+        "projectPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Dto\\CadastroNumeroTelefonico..DTO.csproj",
+        "packagesPath": "C:\\Users\\Denilson Correia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Dto\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Denilson Correia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Interfaces\\CadastroNumeroTelefonico..Interfaces.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Interfaces\\CadastroNumeroTelefonico..Interfaces.csproj",
+        "projectName": "CadastroNumeroTelefonico..Interfaces",
+        "projectPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Interfaces\\CadastroNumeroTelefonico..Interfaces.csproj",
+        "packagesPath": "C:\\Users\\Denilson Correia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Interfaces\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Denilson Correia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadastroNumeroTelefonico.Models\\CadastroNumeroTelefonico..Models.csproj": {
+                "projectPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadastroNumeroTelefonico.Models\\CadastroNumeroTelefonico..Models.csproj"
+              },
+              "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Dto\\CadastroNumeroTelefonico..DTO.csproj": {
+                "projectPath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\src\\components\\ProjectoAfricell\\CadrastroNumeroTelefonico.Dto\\CadastroNumeroTelefonico..DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

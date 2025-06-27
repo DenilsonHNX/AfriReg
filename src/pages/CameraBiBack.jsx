@@ -30,7 +30,7 @@ function CameraBiBack() {
         videoRef.current.srcObject.getTracks().forEach((track) => track.stop());
       }
     };
-  }, [facingMode]);
+  });
 
   const handleCameraClick = () => {
     const video = videoRef.current;

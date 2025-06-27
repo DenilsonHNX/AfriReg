@@ -9,6 +9,7 @@ import BeforeCamera from './pages/BeforeCamera.jsx'
 import CameraPageBi from './pages/CameraBi.jsx'
 import CameraPageFace from './pages/CameraFace.jsx'
 import AnalizeData from './pages/AnalizeData.jsx'
+import AnalizedData from './pages/AnalizedData.jsx'
 import InsertName from './pages/InsertName.jsx'
 import NotConfirmed from './pages/NotConfirmed.jsx'
 import ConfirmData from './pages/ConfirmData.jsx'
@@ -70,6 +71,10 @@ const router = createBrowserRouter([
   {
     path: "/PassPageCameraFace",
     element: <PassPageCameraFace />
+  },
+  {
+    path: "/AnalizedData",
+    element: <AnalizedData />
   }
 ]);
 

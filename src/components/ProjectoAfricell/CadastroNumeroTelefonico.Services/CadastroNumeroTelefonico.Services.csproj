@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CadatroNumeroTelefonico.DAL\CadastroNumeroTelefonico..DAL.csproj" />
+    <ProjectReference Include="..\CadrastroNumeroTelefonico.Dto\CadastroNumeroTelefonico..DTO.csproj" />
+    <ProjectReference Include="..\CadrastroNumeroTelefonico.Interfaces\CadastroNumeroTelefonico..Interfaces.csproj" />
+  
+  </ItemGroup>
+
+</Project>

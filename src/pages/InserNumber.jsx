@@ -5,20 +5,43 @@ import { useNavigate } from "react-router-dom";
 
 function InserNumber() {
   const navigate = useNavigate();
-
   const [value, setValue] = useState();
   const [erro, setErro] = useState("");
+  const [loading, setLoading] = useState(false);
 
-  function navigateVerifyCode() {
-    navigate("/VerifyCode");
+  async function sendOtp(phoneNumber) {
+    setLoading(true);
+    try {
+      const response = await fetch('http://localhost:3001/send-otp', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ phoneNumber }),
+      });
+      
+      const data = await response.json();
+      
+      if (data.success) {
+        // Navegar para a página de verificação com o número de telefone
+        navigate("/VerifyCode", { state: { phoneNumber: value } });
+      } else {
+        setErro("Falha ao enviar OTP. Tente novamente.");
+      }
+    } catch (error) {
+      setErro("Erro de conexão. Verifique sua internet.");
+      console.error('Error:', error);
+    } finally {
+      setLoading(false);
+    }
   }
+
   function navigateWelcome() {
     navigate("/");
   }
 
   const handleChange = (phone) => {
     setValue(phone);
-
     const numeroSemCodigo = phone?.replace(/^(\+244)/, "") || "";
 
     if (numeroSemCodigo.length >= 1 && !numeroSemCodigo.startsWith("95")) {
@@ -45,6 +68,8 @@ function InserNumber() {
           onChange={handleChange}
         />
 
+        {erro && <p className="text-red-500 mt-2">{erro}</p>}
+
         <div className="flex flex-row items-center gap-4 mb-8 mt-4 justify-center">
           <button
             onClick={() => navigateWelcome()}
@@ -53,11 +78,15 @@ function InserNumber() {
             <b className="text-[#27B1B1]">VOLTAR</b>
           </button>
           <button
-            onClick={() => navigateVerifyCode()}
+            onClick={() => sendOtp(value)}
             className="px-10 py-2 bg-[#27B1B1] text-white rounded-xl disabled:opacity-50"
-            disabled={!!erro || !value}
+            disabled={!!erro || !value || loading}
           >
-            <b className="text-[#862F72]">CONTINUAR</b>
+            {loading ? (
+              "ENVIANDO..."
+            ) : (
+              <b className="text-[#862F72]">CONTINUAR</b>
+            )}
           </button>
         </div>
 

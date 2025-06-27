@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadrastroNumeroTelefonico.Models.deps.json
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadrastroNumeroTelefonico.Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadrastroNumeroTelefonico.Models.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadrastroNumeroTelefonico.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadrastroNumeroTelefonico.Models.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadrastroNumeroTelefonico.Models.AssemblyInfo.cs
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadrastroNumeroTelefonico.Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadrastroNumeroTelefonico.Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\refint\CadrastroNumeroTelefonico.Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadrastroNumeroTelefonico.Models.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\ref\CadrastroNumeroTelefonico.Models.dll

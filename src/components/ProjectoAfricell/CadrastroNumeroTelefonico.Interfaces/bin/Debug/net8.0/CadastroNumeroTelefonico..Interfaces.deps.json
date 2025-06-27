@@ -1,0 +1,53 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CadastroNumeroTelefonico..Interfaces/1.0.0": {
+        "dependencies": {
+          "CadastroNumeroTelefonico..DTO": "1.0.0",
+          "CadastroNumeroTelefonico..Models": "1.0.0"
+        },
+        "runtime": {
+          "CadastroNumeroTelefonico..Interfaces.dll": {}
+        }
+      },
+      "CadastroNumeroTelefonico..DTO/1.0.0": {
+        "runtime": {
+          "CadastroNumeroTelefonico..DTO.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CadastroNumeroTelefonico..Models/1.0.0": {
+        "runtime": {
+          "CadastroNumeroTelefonico..Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CadastroNumeroTelefonico..Interfaces/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CadastroNumeroTelefonico..DTO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CadastroNumeroTelefonico..Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

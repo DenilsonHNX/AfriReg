@@ -1,0 +1,17 @@
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.deps.json
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadrastroNumeroTelefonico.DTO.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadrastroNumeroTelefonico.Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadrastroNumeroTelefonico.Models.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadrastroNumeroTelefonico.DTO.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.AssemblyInfo.cs
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\Cadrastr.E0EF376B.Up2Date
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\refint\CadrastroNumeroTelefonico.Interfaces.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadrastroNumeroTelefonico.Interfaces.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\ref\CadrastroNumeroTelefonico.Interfaces.dll

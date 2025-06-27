@@ -1,0 +1,23 @@
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.deps.json
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.AssemblyInfo.cs
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\refint\CadastroNumeroTelefonico..Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\ref\CadastroNumeroTelefonico..Models.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.deps.json
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.AssemblyInfoInputs.cache
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.AssemblyInfo.cs
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.csproj.CoreCompileInputs.cache
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.sourcelink.json
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\refint\CadastroNumeroTelefonico..Models.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\CadastroNumeroTelefonico..Models.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadastroNumeroTelefonico.Models\obj\Debug\net8.0\ref\CadastroNumeroTelefonico..Models.dll

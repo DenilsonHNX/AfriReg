@@ -1,0 +1,35 @@
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.deps.json
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.AssemblyInfo.cs
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\Cadastro.61F0415B.Up2Date
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\refint\CadastroNumeroTelefonico..Interfaces.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\ref\CadastroNumeroTelefonico..Interfaces.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.deps.json
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..Models.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.csproj.AssemblyReference.cache
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.AssemblyInfoInputs.cache
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.AssemblyInfo.cs
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.sourcelink.json
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\Cadastro.61F0415B.Up2Date
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\refint\CadastroNumeroTelefonico..Interfaces.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\CadastroNumeroTelefonico..Interfaces.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Interfaces\obj\Debug\net8.0\ref\CadastroNumeroTelefonico..Interfaces.dll

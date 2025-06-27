@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "rkF27/zmBfA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Denilson Correia\\Documents\\ISPTEC\\3 ANO\\SEM 2\\BD2 e ES2\\PROJECTO FINAL\\AfriReg\\AfriReg\\backend\\BDAfriReg\\BDAfriReg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Denilson Correia\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Denilson Correia\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\Denilson Correia\\.nuget\\packages\\swashbuckle.aspnetcore\\8.0.0\\swashbuckle.aspnetcore.8.0.0.nupkg.sha512",
+    "C:\\Users\\Denilson Correia\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\8.0.0\\swashbuckle.aspnetcore.swagger.8.0.0.nupkg.sha512",
+    "C:\\Users\\Denilson Correia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\8.0.0\\swashbuckle.aspnetcore.swaggergen.8.0.0.nupkg.sha512",
+    "C:\\Users\\Denilson Correia\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\8.0.0\\swashbuckle.aspnetcore.swaggerui.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

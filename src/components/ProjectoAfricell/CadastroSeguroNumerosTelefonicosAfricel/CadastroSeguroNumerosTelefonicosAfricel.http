@@ -1,0 +1,6 @@
+@CadastroSeguroNumerosTelefonicosAfricel_HostAddress = http://localhost:5014
+
+GET {{CadastroSeguroNumerosTelefonicosAfricel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,18 +1,63 @@
 import "react-phone-number-input/style.css";
-import { useState, useRef } from "react";
-import { useNavigate } from "react-router-dom";
+import { useState, useRef, useEffect } from "react";
+import { useNavigate, useLocation } from "react-router-dom";
 
-function InserNumber() {
-  const [otp, setOtp] = useState(["", "", "", ""]);
+function VerifyCode() {
+  const [otp, setOtp] = useState(["", "", "", "", "", ""]);
+  const [phoneNumber, setPhoneNumber] = useState("");
+  const [resendDisabled, setResendDisabled] = useState(true);
+  const [countdown, setCountdown] = useState(30);
   const inputs = useRef([]);
   const navigate = useNavigate();
+  const location = useLocation();
+
+  useEffect(() => {
+    if (location.state?.phoneNumber) {
+      setPhoneNumber(location.state.phoneNumber);
+    }
+  }, [location]);
+
+  useEffect(() => {
+    // Temporizador para reenvio
+    if (countdown > 0 && resendDisabled) {
+      const timer = setTimeout(() => setCountdown(countdown - 1), 1000);
+      return () => clearTimeout(timer);
+    } else {
+      setResendDisabled(false);
+    }
+  }, [countdown, resendDisabled]);
+
+  async function resendOtp() {
+    setResendDisabled(true);
+    setCountdown(30);
+    try {
+      const response = await fetch('http://localhost:3001/send-otp', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ phoneNumber }),
+      });
+      
+      if (!response.ok) {
+        throw new Error('Falha ao reenviar OTP');
+      }
+    } catch (error) {
+      console.error('Error:', error);
+    }
+  }
 
   function navigateBeforeCamera() {
-    navigate("/BeforeCamera");
+    // Aqui você deve validar o OTP com o backend antes de navegar
+    const otpValue = otp.join("");
+    // Simulação de validação - em produção, faça uma chamada ao backend
+    if (otpValue.length === 6) {
+      navigate("/BeforeCamera");
+    }
   }
 
   const handleChange = (index, value) => {
-    if (!/^\d?$/.test(value)) return; // Só aceita 1 dígito numérico
+    if (!/^\d?$/.test(value)) return;
     const newOtp = [...otp];
     newOtp[index] = value;
     setOtp(newOtp);
@@ -51,7 +96,7 @@ function InserNumber() {
         </label>
 
         {/* Inputs OTP */}
-        <div className="flex justify-center gap-4 mb-6">
+        <div className="flex justify-center gap-2  mb-6">
           {otp.map((digit, index) => (
             <input
               key={index}
@@ -62,23 +107,29 @@ function InserNumber() {
               value={digit}
               onChange={(e) => handleChange(index, e.target.value)}
               onKeyDown={(e) => handleKeyDown(index, e)}
-              className="w-12 h-12 text-2xl text-center rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#27B1B1] text-black"
+              className="w-10 h-10 text-2xl text-center rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-[#27B1B1] text-black"
             />
           ))}
         </div>
 
-        <p className="text-cyan-600 cursor-pointer text-start mb-10 underline">
-          Reenviar o código de verificação
+        <p 
+          className={`text-cyan-600 cursor-pointer text-start mb-10 underline ${resendDisabled ? 'opacity-50 cursor-not-allowed' : ''}`}
+          onClick={!resendDisabled ? resendOtp : undefined}
+        >
+          {resendDisabled ? `Reenviar código em ${countdown}s` : 'Reenviar o código de verificação'}
         </p>
 
         <div className="flex flex-row items-center gap-4 mb-8 mt-4 justify-center">
-          <button className="px-10 py-2 bg-[#862F72] text-white rounded-xl">
+          <button 
+            onClick={() => navigate(-1)}
+            className="px-10 py-2 bg-[#862F72] text-white rounded-xl"
+          >
             <b className="text-[#27B1B1]">VOLTAR</b>
           </button>
           <button
-            onClick={() => navigateBeforeCamera()}
+            onClick={navigateBeforeCamera}
             className="px-10 py-2 bg-[#27B1B1] text-white rounded-xl disabled:opacity-50"
-            disabled={otpValue.length < 4}
+            disabled={otpValue.length < 6}
           >
             <b className="text-[#862F72]">CONTINUAR</b>
           </button>
@@ -88,4 +139,4 @@ function InserNumber() {
   );
 }
 
-export default InserNumber;
+export default VerifyCode;

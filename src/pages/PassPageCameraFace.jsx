@@ -10,10 +10,12 @@ function PassPageCamera() {
   }
 
   useEffect(() => {
-    setInterval(() => {
+    const timer = setTimeout(() => {
       navigateVerifyCode();
-    }, 6000); 
-  }, [navigate]); 
+    }, 5000);
+
+    return () => clearTimeout(timer); // Limpa se desmontar antes
+  }, []);
 
   return (
     <div className="relative h-screen overflow-hidden bg-[#2B2B2D] flex items-center justify-center text-center">

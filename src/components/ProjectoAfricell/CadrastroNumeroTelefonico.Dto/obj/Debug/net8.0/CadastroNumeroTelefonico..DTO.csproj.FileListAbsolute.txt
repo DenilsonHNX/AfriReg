@@ -1,0 +1,23 @@
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.deps.json
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.AssemblyInfo.cs
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\refint\CadastroNumeroTelefonico..DTO.dll
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.pdb
+C:\Users\DELL\Documents\Aw\Projecto\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\ref\CadastroNumeroTelefonico..DTO.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.deps.json
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\bin\Debug\net8.0\CadastroNumeroTelefonico..DTO.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.AssemblyInfoInputs.cache
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.AssemblyInfo.cs
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.csproj.CoreCompileInputs.cache
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.sourcelink.json
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\refint\CadastroNumeroTelefonico..DTO.dll
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\CadastroNumeroTelefonico..DTO.pdb
+C:\Users\Denilson Correia\Documents\ISPTEC\3 ANO\SEM 2\BD2 e ES2\PROJECTO FINAL\AfriReg\AfriReg\src\components\ProjectoAfricell\CadrastroNumeroTelefonico.Dto\obj\Debug\net8.0\ref\CadastroNumeroTelefonico..DTO.dll
